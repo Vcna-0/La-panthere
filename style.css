@@ -637,6 +637,8 @@ a[data-lightbox]:hover img {
     padding: 0;
     color: rgba(0, 0, 0, .5);
     background: none;
+    text-align: center;
+    font-size: 15px;
 }
 
 h1,
