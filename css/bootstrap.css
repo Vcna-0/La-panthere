@@ -4375,6 +4375,7 @@ tbody.collapse.in {
     background-color: transparent;
     background-image: none;
     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(enabled=false)";
+    filter: none;
 }
 
 .open>.dropdown-menu {
