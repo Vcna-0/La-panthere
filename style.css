@@ -653,7 +653,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #3a3939!important;
 }
 
 .container {
@@ -1045,4 +1045,20 @@ h4 {
 
 .mb {
     margin-bottom: 50px;
+}
+
+.flex-contact{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact > p{
+    font-size: 18px;
 }
