@@ -79,12 +79,16 @@ L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un 
 </details>
 
 <details>
-  <summary>Mobile</summary>
+  <summary>Resultat lighthouse - Accueil</summary>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/lighthouseAC.png" alt=""/>
   </p>
+</details>
+
+<details>
+  <summary>Resultat lighthouse - Contact</summary>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/lighthouseContact.png" alt=""/>
   </p>
 </details>
 
