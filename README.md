@@ -59,22 +59,22 @@ L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un 
 ### Screenshots
 
 <details>
-  <summary>Desktop</summary>
+  <summary>Page d'accueil - avant/après</summary>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/pageAC_avant" alt=""/>
   </p>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/pageAC_apres" alt=""/>
   </p>
 </details>
 
 <details>
-  <summary>Tablette</summary>
+  <summary>Page contact - avant/après</summary>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/page2_avant" alt=""/>
   </p>
   <p align="center">
-    <img src="" alt=""/>
+    <img src="./screenshots/page2_apres" alt=""/>
   </p>
 </details>
 
