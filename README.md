@@ -2,9 +2,9 @@
 
 Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de formation __developpeur web__ chez Openclassroom.
 
-[Visiter le site original](https://vcna-0.github.io/La-panthere-base/)  
+[Visiter le site en version original](https://vcna-0.github.io/La-panthere-base/)  
 
-[Visiter le site modifié](https://vcna-0.github.io/La-panthere/)
+[Visiter le site en version optimisé](https://vcna-0.github.io/La-panthere/)
 
 ![Logo](./img/logo.webp) 
 
@@ -13,10 +13,6 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
 - [Le projet](#le-projet)
   - [contexte](#contexte)
   - [Éléments fournis pour la réalisation du projet](#éléments-fournis-pour-la-réalisation-du-projet)
-  - [Cahier des charges](#cahier-des-charges)
-  - [Contraintes](#contraintes)
-  - [Palette de couleur](#palette-de-couleur)
-  - [Fonts](#fonts)
 - [Mon processus](#mon-processus)
   - [Outils et technologies utilisés](#outils-et-technologies-utilisés)
   - [Les difficultés rencontrées](#Les-difficultés-rencontrées)
@@ -24,7 +20,6 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
 - [Livrables](#livrables)
   - [Screenshots](#screenshots)
   - [Compétences évaluées](#compétences-évaluées)
-  - [Notes sur la réalisation](#notes-sur-la-réalisation)
 - [Auteur](#auteur)
 
 
@@ -33,29 +28,27 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
 
 ### Contexte
 
-** Indiquer ici le contexte du projet 
+L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un audit du site et sélectionner 10 recommandations optimisations portant principalement sur les performances, l'accessibilité et le référencement. 
 
 ### Éléments fournis pour la réalisation du projet
 
-### Cahier des charges
-
-** Indiquer ici le cahier des charges
-
-### Contraintes
-
-*** indiquer ici les contraintes
-
-### Palette de couleur
-
- `#` →
-
-### Fonts
+* Les fichiers du site à modifier 
 
 ## 🔨 Mon processus
 
 ### Outils et technologies utilisés
 
+* Lighthouse
+* WAVE
+* PageSpeed insight
+
 ### Ressources utiles
+
+* [Bien débuter en référencement naturel (SEO)](https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=fr#uniquepagetitles)
+* [WCAG 2](https://www.w3.org/TR/WCAG21/#intro)
+* [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)
+* [Optimisez le référencement de votre site (SEO) en améliorant ses performances techniques](https://openclassrooms.com/fr/courses/5922626-optimisez-le-referencement-de-votre-site-seo-en-ameliorant-ses-performances-techniques)
+* [Augmentez votre trafic grâce au référencement naturel (SEO)](https://openclassrooms.com/fr/courses/5561431-augmentez-votre-trafic-grace-au-referencement-naturel-seo)
 
 ## 📚 Livrables
 
@@ -91,7 +84,13 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
   </p>
 </details>
 
-### Notes sur la réalisation
+### Compétences évaluées
+
+* Réaliser une recherche des bonnes pratiques en développement web
+* Optimiser la taille et la vitesse d’un site web
+* Écrire un code HTML et CSS maintenable
+* Optimiser le référencement d'un site web
+* Assurer l'accessibilité d'un site web
 
 ## 👷 Auteur
 
