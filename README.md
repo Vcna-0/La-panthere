@@ -1,10 +1,11 @@
 # Formation developpeur web - OPENCLASSROOM
 
-Ma solution au `nom du projet` du parcours de formation __developpeur web__ chez Openclassroom.
+Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de formation __developpeur web__ chez Openclassroom.
 
-[Visiter le site](lien du site)
+[Visiter le site original](https://vcna-0.github.io/La-panthere-base/)
+[Visiter le site modifié](https://vcna-0.github.io/La-panthere/)
 
-![Logo](chemin du logo) 
+![Logo](./img/logo.webp) 
 
 ## Table des matières
 
