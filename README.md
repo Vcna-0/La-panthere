@@ -34,7 +34,7 @@ L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un 
 
 ### Éléments fournis pour la réalisation du projet
 
-* Les fichiers du site à modifier 
+* Les fichiers du site à optimiser 
 
 ## 🔨 Mon processus
 
