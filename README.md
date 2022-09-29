@@ -40,6 +40,8 @@ L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un 
 
 ### Outils et technologies utilisés
 
+* VScode
+* Firefox Developer
 * Lighthouse
 * WAVE
 * PageSpeed insight
