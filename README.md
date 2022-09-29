@@ -2,7 +2,7 @@
 
 Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de formation __developpeur web__ chez Openclassroom.
 
-[Visiter le site original](https://vcna-0.github.io/La-panthere-base/)
+[Visiter le site original](https://vcna-0.github.io/La-panthere-base/)  
 [Visiter le site modifié](https://vcna-0.github.io/La-panthere/)
 
 ![Logo](./img/logo.webp) 
