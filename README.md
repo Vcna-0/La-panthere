@@ -30,7 +30,7 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
 
 ### Contexte
 
-L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un audit du site puis en sélectionnant et appliquant 10 recommandations optimisations portant principalement sur les performances, l'accessibilité et le référencement. 
+L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un audit du site puis en sélectionnant et appliquant 10 recommandations d'optimisations portant principalement sur les performances, l'accessibilité et le référencement. 
 
 ### Éléments fournis pour la réalisation du projet
 
