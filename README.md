@@ -61,20 +61,20 @@ L'objectif est optimiser le SEO d'un site web déjà existant. En réalisant un 
 <details>
   <summary>Page d'accueil - avant/après</summary>
   <p align="center">
-    <img src="./screenshots/pageAC_avant" alt=""/>
+    <img src="./screenshots/pageAC_avant.png" alt=""/>
   </p>
   <p align="center">
-    <img src="./screenshots/pageAC_apres" alt=""/>
+    <img src="./screenshots/pageAC_apres.png" alt=""/>
   </p>
 </details>
 
 <details>
   <summary>Page contact - avant/après</summary>
   <p align="center">
-    <img src="./screenshots/page2_avant" alt=""/>
+    <img src="./screenshots/page2_avant.png" alt=""/>
   </p>
   <p align="center">
-    <img src="./screenshots/page2_apres" alt=""/>
+    <img src="./screenshots/page2_apres.png" alt=""/>
   </p>
 </details>
 
