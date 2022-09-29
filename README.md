@@ -3,6 +3,7 @@
 _EN COUR DE REDACTION_
 
 Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de formation __developpeur web__ chez Openclassroom.
+  
 
 [Visiter le site en version original](https://vcna-0.github.io/La-panthere-base/)  
 
