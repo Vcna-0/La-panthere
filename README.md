@@ -17,7 +17,6 @@ Ma solution au __PROJET 4 - Optimisez un site web existant__ du parcours de form
   - [Éléments fournis pour la réalisation du projet](#éléments-fournis-pour-la-réalisation-du-projet)
 - [Mon processus](#mon-processus)
   - [Outils et technologies utilisés](#outils-et-technologies-utilisés)
-  - [Les difficultés rencontrées](#Les-difficultés-rencontrées)
   - [Ressources utiles](#ressources-utiles)
 - [Livrables](#livrables)
   - [Screenshots](#screenshots)
